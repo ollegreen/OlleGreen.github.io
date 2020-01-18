@@ -3,8 +3,6 @@ title: Christmas present/game using Python
 updated: 2019-12-23 23:37
 ---
 
-**NOTE:** This markdown cheatsheet is a typography demo for this theme. Check out this post to learn more about this markdown usage when you want to get started with this theme. Enjoy!
-
 ## Typography Elements in One
 
 Let's start with a informative paragraph. **This text is bolded.** But not this one! _How about italic text?_ Cool right? Ok, let's **_combine_** them together. Yeah, that's right! I have code to highlight, so `ThisIsMyCode()`. What a nice! Good people will hyperlink away, so [here we go](#) or [http://www.example.com](http://www.example.com).
@@ -33,14 +31,6 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 
 <div class="divider"></div>
 
-## Blockquote
-
-> Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. --Francis of Assisi
-
-**NOTE:** This theme does NOT support nested blockquotes.
-
-<div class="divider"></div>
-
 ## List Items
 
 1. First order list item
@@ -52,14 +42,10 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 
 <div class="divider"></div>
 
-## Code Blocks
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+## The Code
 
 ```python
+
 
 import random
 sys_random = random.SystemRandom()
@@ -439,11 +425,7 @@ while True:
     elif answer == "jonatan" or answer == "Jonatan":
         print(sys_random.choice(jonatan))
 
-```
 
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
 ```
 
 <div class="divider"></div>

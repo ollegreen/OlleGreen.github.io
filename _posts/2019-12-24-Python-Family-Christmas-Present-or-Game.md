@@ -1,17 +1,15 @@
 ---
-title: Christmas present/game using Python
+title: Python Present Game
 updated: 2019-12-23 23:37
 ---
 
-## Typography Elements in One
+## The Python Present Game. 
 
-Let's start with a informative paragraph. **This text is bolded.** But not this one! _How about italic text?_ Cool right? Ok, let's **_combine_** them together. Yeah, that's right! I have code to highlight, so `ThisIsMyCode()`. What a nice! Good people will hyperlink away, so [here we go](#) or [http://www.example.com](http://www.example.com).
+Used for the Christmas in Gavle, Sweden 2019. In short, you write your name as an input and hit enter ->  something random comes out from that persons dataframe. 
 
-<div class="divider"></div>
+An improvement is that when you insert your name then the first items comes out and then the 2nd thing comes out, which would eliminate the problem of my when the familymembers got the same joke or hint generated 3 times in a row. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vmX76sntxe0&t=" frameborder="0" allowfullscreen></iframe>
-
-<div class="divider"></div>
+Cheers.
 
 
 ## The Code

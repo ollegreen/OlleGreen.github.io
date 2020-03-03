@@ -1,9 +1,9 @@
 ---
-title: Python Present Game
+title: Gift Game using Python
 updated: 2019-12-23 23:37
 ---
 
-## The Python Present Game. 
+## The Python Gift Game. 
 
 Used for the Christmas in Gavle, Sweden 2019. In short, you write your name as an input and hit enter ->  something random comes out from that persons dataframe. 
 

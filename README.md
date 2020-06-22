@@ -6,8 +6,6 @@
 
 - **Demo:** https://heiswayi.github.io/the-plain/
 
-![SCREENSHOT](https://i.imgur.com/FITKN1H.png)
-
 ## Usage
 
 ### On an unlimited Jekyll host
